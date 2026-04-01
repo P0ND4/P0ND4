@@ -13,9 +13,9 @@ Ingeniero de Software | Venezuela 🇻🇪
 > "El codigo no es solo una secuencia de instrucciones para la maquina, sino el puente donde la logica humana se vuelve arte tangible, y la depuracion, el acto de humildad para reconocer que la perfeccion no reside en el primer intento, sino en la iteracion constante hacia la verdad."
 
 ## Microservicios
-- ✉️ [ms-mailer-service](https://github.com/P0ND4/ms-mailer-service): Microservicio de envio de correos y mensajes de texto usando BullMQ y Redis.
-- ⚙️ [ms-config-service](https://github.com/P0ND4/ms-config-service): Configuracion centralizada por servicio, auditoria de cambios, rollback y sincronizacion en tiempo real con Redis.
-- 🧍🏻 [ms-identity-service](https://github.com/P0ND4/ms-identity-service): Microservicio de identidad personalizable con NestJS, JWT/OAuth, RBAC, PostgreSQL y Redis.
+- ✉️ [ms-mailer-service](https://github.com/P0ND4/ms-mailer-service): Correos y SMS con BullMQ + Redis.
+- ⚙️ [ms-config-service](https://github.com/P0ND4/ms-config-service): Configuracion centralizada con auditoria y rollback.
+- 🧍🏻 [ms-identity-service](https://github.com/P0ND4/ms-identity-service): Identidad y acceso con JWT/OAuth y RBAC.
 
 ## Experiencia y reconocimiento
 - 8 años de experiencia en desarrollo de software.
