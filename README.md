@@ -13,6 +13,7 @@ Ingeniero de Software | Venezuela 🇻🇪
 > "El codigo no es solo una secuencia de instrucciones para la maquina, sino el puente donde la logica humana se vuelve arte tangible, y la depuracion, el acto de humildad para reconocer que la perfeccion no reside en el primer intento, sino en la iteracion constante hacia la verdad."
 
 ## Microservicios
+- 🤖 [ms-ia-service](https://github.com/P0ND4/ms-ia-service): Orquestador de agentes IA para microservicios.
 - ✉️ [ms-mailer-service](https://github.com/P0ND4/ms-mailer-service): Correos y SMS con BullMQ + Redis.
 - ⚙️ [ms-config-service](https://github.com/P0ND4/ms-config-service): Configuracion centralizada con auditoria y rollback.
 - 🧍🏻 [ms-identity-service](https://github.com/P0ND4/ms-identity-service): Identidad y acceso con JWT/OAuth y RBAC.
