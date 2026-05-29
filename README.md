@@ -1,5 +1,5 @@
 # Hola, soy Melvin 👋
-Ingeniero de Software | Venezuela 🇻🇪
+Ingeniero de Sistemas | Ingeniero de Software | Venezuela 🇻🇪
 
 ![Backend](https://img.shields.io/badge/Backend-0F172A?style=for-the-badge&logo=serverless&logoColor=white)
 ![Frontend](https://img.shields.io/badge/Frontend-1D4ED8?style=for-the-badge&logo=googlechrome&logoColor=white)
