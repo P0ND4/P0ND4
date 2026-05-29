@@ -12,6 +12,9 @@ Ingeniero de Software | Venezuela 🇻🇪
 
 > "El codigo no es solo una secuencia de instrucciones para la maquina, sino el puente donde la logica humana se vuelve arte tangible, y la depuracion, el acto de humildad para reconocer que la perfeccion no reside en el primer intento, sino en la iteracion constante hacia la verdad."
 
+## CLI
+- 🐸 [cnnp](https://github.com/P0ND4/cnnp): CLI para crear plantillas proyectos de NestJS con arquitectura.
+
 ## Microservicios
 - 🤖 [ms-ia-service](https://github.com/P0ND4/ms-ia-service): Orquestador de agentes IA para microservicios.
 - ✉️ [ms-mailer-service](https://github.com/P0ND4/ms-mailer-service): Correos y SMS con BullMQ + Redis.
