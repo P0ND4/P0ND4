@@ -28,7 +28,7 @@ Ingeniero de Sistemas | Ingeniero de Software | Venezuela 🇻🇪
 
 ## Contacto
 [![GitHub](https://img.shields.io/badge/GitHub-P0ND4-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/P0ND4)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Melvin%20Colmenares-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melvin-colmenares-a168a4217/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Melvin%20Colmenares-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lmacml/)
 [![X](https://img.shields.io/badge/X-@lm__e__l__v__i__nl-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/lm_e_l_v_i_nl)
 [![Instagram](https://img.shields.io/badge/Instagram-@lm__e__l__v__i__nl-0EA5E9?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lm_e_l_v_i_nl/)
 [![Email](https://img.shields.io/badge/Email-melvin10tech%40gmail.com-3178C6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:melvin10tech@gmail.com)
