@@ -95,7 +95,7 @@
     <g clip-path="url(#c2)"><text class="out" x="560" y="164">.NET · NestJS · Angular · React Native</text></g>
     <g clip-path="url(#c3)"><text x="560" y="204"><tspan class="prompt">❯ </tspan><tspan class="cmd">ship --offline-first --ai</tspan></text></g>
     <g clip-path="url(#c4)"><text class="out" x="560" y="230">docker · postgres · redis · ci/cd</text></g>
-    <g clip-path="url(#c5)"><text class="ok" x="560" y="270">✓ producción. sin drama.</text></g>
+    <g clip-path="url(#c5)"><text class="ok" x="560" y="270">✓ desplegado en producción.</text></g>
     <rect class="cursor" x="560" y="282" width="9" height="16" rx="1"/>
   </g>
 </svg>
