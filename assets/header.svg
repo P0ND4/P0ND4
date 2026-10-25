@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img" aria-label="Melvin Colmenares: Ingeniero de software. Backend, móvil, web e infraestructura.">
+  <style>
+    :root { --bg:#0b1020; --panel:#111833; --line:#1e2a52; --text:#e6ebff; --muted:#8b97c6; --accent:#7c5cff; --accent2:#22d3ee; --ok:#34d399; }
+    @media (prefers-color-scheme: light) {
+      :root { --bg:#f6f8ff; --panel:#ffffff; --line:#dfe5fb; --text:#0f1733; --muted:#5b6690; --accent:#5b3df5; --accent2:#0891b2; --ok:#059669; }
+    }
+    .bg { fill: var(--bg); }
+    .panel { fill: var(--panel); stroke: var(--line); }
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .title { fill: var(--text); font-size: 40px; font-weight: 800; letter-spacing: -1px; }
+    .sub { fill: var(--muted); font-size: 17px; }
+    .prompt { fill: var(--accent2); font-size: 15px; }
+    .cmd { fill: var(--text); font-size: 15px; }
+    .out { fill: var(--muted); font-size: 14px; }
+    .ok { fill: var(--ok); font-size: 14px; }
+    .accent { fill: var(--accent); }
+    .dot { opacity: .9; }
+
+    /* Typed lines: each line is revealed by a clip that grows in steps. */
+    .reveal { animation: type 1.1s steps(38, end) backwards; }
+    .l1 { animation-delay: .4s; }
+    .l2 { animation-delay: 1.6s; }
+    .l3 { animation-delay: 2.8s; }
+    .l4 { animation-delay: 4.0s; }
+    .l5 { animation-delay: 5.2s; }
+    @keyframes type { from { width: 0; } }
+
+    .fade { animation: fade .6s ease-out backwards; }
+    .f1 { animation-delay: .1s; } .f2 { animation-delay: .35s; } .f3 { animation-delay: .6s; }
+    @keyframes fade { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+
+    .cursor { fill: var(--accent2); animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+
+    .orb { animation: drift 9s ease-in-out infinite alternate; transform-origin: center; }
+    .orb2 { animation-duration: 12s; animation-direction: alternate-reverse; }
+    @keyframes drift { from { transform: translate(0,0) scale(1); } to { transform: translate(-30px,18px) scale(1.15); } }
+
+    @media (prefers-reduced-motion: reduce) {
+      .reveal, .fade, .cursor, .orb { animation: none !important; opacity: 1 !important; }
+      .reveal { width: 520px; }
+    }
+  </style>
+
+  <defs>
+    <radialGradient id="g1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7c5cff" stop-opacity=".55"/>
+      <stop offset="100%" stop-color="#7c5cff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="g2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity=".45"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="name" x1="0" x2="1">
+      <stop offset="0%" stop-color="#7c5cff"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+    <clipPath id="c1"><rect class="reveal l1" x="560" y="120" height="24" width="520"/></clipPath>
+    <clipPath id="c2"><rect class="reveal l2" x="560" y="146" height="24" width="520"/></clipPath>
+    <clipPath id="c3"><rect class="reveal l3" x="560" y="186" height="24" width="520"/></clipPath>
+    <clipPath id="c4"><rect class="reveal l4" x="560" y="212" height="24" width="520"/></clipPath>
+    <clipPath id="c5"><rect class="reveal l5" x="560" y="252" height="24" width="520"/></clipPath>
+  </defs>
+
+  <rect class="bg" width="1000" height="360" rx="18"/>
+  <circle class="orb" cx="860" cy="70" r="190" fill="url(#g1)"/>
+  <circle class="orb orb2" cx="120" cy="320" r="170" fill="url(#g2)"/>
+
+  <!-- Left: identity -->
+  <g class="sans">
+    <text class="mono prompt fade f1" x="48" y="92">~/P0ND4</text>
+    <text class="title fade f2" x="46" y="146">Melvin</text>
+    <text class="title fade f2" x="46" y="192" fill="url(#name)" style="fill:url(#name)">Colmenares</text>
+    <text class="sub fade f3" x="48" y="232">Ingeniero de software · Caracas, Venezuela</text>
+    <text class="sub fade f3" x="48" y="258">Backend · Móvil · Web · Infraestructura</text>
+    <g class="fade f3">
+      <rect x="48" y="282" width="118" height="30" rx="15" class="accent" opacity=".16"/>
+      <text class="mono" x="64" y="302" font-size="13" fill="var(--accent)" style="fill:var(--accent)">8+ años</text>
+      <rect x="176" y="282" width="150" height="30" rx="15" class="accent" opacity=".16"/>
+      <text class="mono" x="192" y="302" font-size="13" fill="var(--accent)" style="fill:var(--accent)">35+ proyectos</text>
+    </g>
+  </g>
+
+  <!-- Right: terminal -->
+  <rect class="panel" x="530" y="48" width="430" height="264" rx="14"/>
+  <circle class="dot" cx="554" cy="72" r="6" fill="#ff5f57"/>
+  <circle class="dot" cx="574" cy="72" r="6" fill="#febc2e"/>
+  <circle class="dot" cx="594" cy="72" r="6" fill="#28c840"/>
+  <text class="mono out" x="745" y="77" text-anchor="middle">zsh — melvin@dev</text>
+  <line x1="530" y1="94" x2="960" y2="94" stroke="var(--line)" style="stroke:var(--line)"/>
+
+  <g class="mono">
+    <g clip-path="url(#c1)"><text x="560" y="138"><tspan class="prompt">❯ </tspan><tspan class="cmd">whoami --stack</tspan></text></g>
+    <g clip-path="url(#c2)"><text class="out" x="560" y="164">.NET · NestJS · Angular · React Native</text></g>
+    <g clip-path="url(#c3)"><text x="560" y="204"><tspan class="prompt">❯ </tspan><tspan class="cmd">ship --offline-first --ai</tspan></text></g>
+    <g clip-path="url(#c4)"><text class="out" x="560" y="230">docker · postgres · redis · ci/cd</text></g>
+    <g clip-path="url(#c5)"><text class="ok" x="560" y="270">✓ producción. sin drama.</text></g>
+    <rect class="cursor" x="560" y="282" width="9" height="16" rx="1"/>
+  </g>
+</svg>
