@@ -63,8 +63,8 @@ Construyo productos completos, de la base de datos al bolsillo del usuario: APIs
       </p>
     </td>
     <td width="50%" valign="top">
-      <img src="./assets/products/rumbo.svg" alt="Rumbo" width="64" height="64">
-      <h3>Rumbo</h3>
+      <img src="./assets/products/rumbo.svg" alt="NovIT Rumbo" width="64" height="64">
+      <h3>NovIT Rumbo</h3>
       <p>Plataforma de paquetes de viaje: app y web para que el viajero encuentre, reserve y pague su paquete, panel para las agencias y una app de abordaje para el día de la salida.</p>
       <p>
         <img src="https://img.shields.io/badge/en_diseño-FF8A3D?style=flat-square">
