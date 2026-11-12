@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240">
+  <title>NovIT Network</title>
+  <g transform="translate(0 0) scale(1.0)">
+    <rect width="240" height="240" rx="54" fill="#3761e2"/>
+    <path d="M120 120L120.0 48.0" fill="none" stroke="#fff" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/><path d="M120 120L182.4 84.0" fill="none" stroke="#fff" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/><path d="M120 120L182.4 156.0" fill="none" stroke="#fff" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/><path d="M120 120L120.0 192.0" fill="none" stroke="#fff" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/><path d="M120 120L57.6 156.0" fill="none" stroke="#fff" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/><path d="M120 120L57.6 84.0" fill="none" stroke="#fff" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/><path d="M120.0 48.0L182.4 84.0L182.4 156.0L120.0 192.0L57.6 156.0L57.6 84.0Z" fill="none" stroke="#fff" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/><circle cx="120.0" cy="48.0" r="16" fill="#fff"/><circle cx="182.4" cy="84.0" r="16" fill="#fff"/><circle cx="182.4" cy="156.0" r="16" fill="#fff"/><circle cx="120.0" cy="192.0" r="16" fill="#fff"/><circle cx="57.6" cy="156.0" r="16" fill="#fff"/><circle cx="57.6" cy="84.0" r="16" fill="#fff"/>
+    <circle cx="120" cy="120" r="26" fill="#fff"/>
+    <circle cx="120" cy="120" r="11" fill="#3761e2"/>
+  </g>
+</svg>

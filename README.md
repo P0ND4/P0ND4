@@ -6,13 +6,27 @@
 
 Construyo productos completos, de la base de datos al bolsillo del usuario: APIs en **.NET** y **NestJS**, webs en **Angular**, apps en **React Native**, y la infraestructura que los mantiene en pie. Me obsesiona que el software funcione **sin conexión**, que la IA **ayude de verdad** y que un despliegue sea un no-evento.
 
-## 🚀 Lo que estoy construyendo
+## 🏢 NovIT
+
+<a href="https://novittech.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/products/novit-logo-dark.png">
+    <img src="./assets/products/novit-logo.png" alt="NovIT" height="56">
+  </picture>
+</a>
+
+**Innovación que simplifica.** NovIT es mi empresa de software: desde ahí diseñamos, construimos y operamos nuestros propios productos, de punta a punta.
+
+[![novittech.com](https://img.shields.io/badge/novittech.com-3761E2?style=flat-square&logo=googlechrome&logoColor=white)](https://novittech.com)
+
+## 🚀 Nuestros productos
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧾 Fappture</h3>
-      <p>Plataforma de gestión para negocios: punto de venta, restaurante con cocina en tiempo real, hotel, inventario, finanzas y nómina, con <b>Sofía</b>, una asistente de IA que consulta y opera el negocio.</p>
+      <img src="./assets/products/fappture.png" alt="Fappture" width="64" height="64">
+      <h3>Fappture</h3>
+      <p>ERP móvil para hotelería, restaurantes, tiendas y servicios: punto de venta, cocina en tiempo real, hotel, inventario, finanzas y nómina, con <b>Sofía</b>, una asistente de IA que consulta y opera el negocio.</p>
       <p>
         <img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white">
         <img src="https://img.shields.io/badge/Angular_21_SSR-DD0031?style=flat-square&logo=angular&logoColor=white">
@@ -20,15 +34,40 @@ Construyo productos completos, de la base de datos al bolsillo del usuario: APIs
         <img src="https://img.shields.io/badge/offline--first-0EA5E9?style=flat-square">
         <img src="https://img.shields.io/badge/SignalR-7c5cff?style=flat-square">
       </p>
+      <p><a href="https://fappture.com.co">fappture.com.co →</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🛰️ Network</h3>
-      <p>Plataforma SaaS con backend .NET, panel web, app móvil y conectores, más simuladores propios (ISP, banca, WhatsApp) para probar cada integración sin tocar producción.</p>
+      <img src="./assets/products/novit-network.svg" alt="NovIT Network" width="64" height="64">
+      <h3>NovIT Network</h3>
+      <p>SaaS de gestión para proveedores de internet en Venezuela: clientes, planes y zonas de cobertura, cobro en bolívares a tasa BCV, pagos, soporte, monitoreo de red e inventario. Incluye simuladores propios (ISP, banca, WhatsApp) para probar cada integración sin tocar producción.</p>
       <p>
-        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white">
-        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white">
+        <img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white">
+        <img src="https://img.shields.io/badge/Angular_21-DD0031?style=flat-square&logo=angular&logoColor=white">
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB">
         <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white">
         <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="./assets/products/grosly.png" alt="Grosly" width="64" height="64">
+      <h3>Grosly</h3>
+      <p>Compra al mayor de productos importados desde China, con envío a toda Venezuela: catálogo, pedidos y consolidación de contenedores, con app, web y panel de administración.</p>
+      <p>
+        <img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white">
+        <img src="https://img.shields.io/badge/Angular_21-DD0031?style=flat-square&logo=angular&logoColor=white">
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="./assets/products/rumbo.svg" alt="Rumbo" width="64" height="64">
+      <h3>Rumbo</h3>
+      <p>Plataforma de paquetes de viaje: app y web para que el viajero encuentre, reserve y pague su paquete, panel para las agencias y una app de abordaje para el día de la salida.</p>
+      <p>
+        <img src="https://img.shields.io/badge/en_diseño-FF8A3D?style=flat-square">
       </p>
     </td>
   </tr>
