@@ -1,21 +1,21 @@
 <div align="center">
-  <img src="./assets/header.svg" alt="Melvin Colmenares: ingeniero de software. Backend, móvil, web e infraestructura." width="100%">
+  <img src="./assets/header.svg" alt="Melvin Colmenares: dueño de NovIT Soluciones Tecnológicas e ingeniero de software. Backend, móvil, web e infraestructura." width="100%">
 </div>
 
 <br>
 
 Construyo productos completos, de la base de datos al bolsillo del usuario: APIs en **.NET** y **NestJS**, webs en **Angular**, apps en **React Native**, y la infraestructura que los mantiene en pie. Me obsesiona que el software funcione **sin conexión**, que la IA **ayude de verdad** y que un despliegue sea un no-evento.
 
-## 🏢 NovIT
+## 🏢 NovIT Soluciones Tecnológicas
 
 <a href="https://novittech.com">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/products/novit-logo-dark.png">
-    <img src="./assets/products/novit-logo.png" alt="NovIT" height="56">
+    <img src="./assets/products/novit-logo.png" alt="NovIT Soluciones Tecnológicas" height="56">
   </picture>
 </a>
 
-**Innovación que simplifica.** NovIT es mi empresa de software: desde ahí diseñamos, construimos y operamos nuestros propios productos, de punta a punta.
+**Innovación que simplifica.** Soy el dueño de **NovIT Soluciones Tecnológicas**, mi empresa de software: desde ahí diseñamos, construimos y operamos nuestros propios productos, de punta a punta.
 
 [![novittech.com](https://img.shields.io/badge/novittech.com-3761E2?style=flat-square&logo=googlechrome&logoColor=white)](https://novittech.com)
 

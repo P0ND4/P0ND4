@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img" aria-label="Melvin Colmenares: Ingeniero de software. Backend, móvil, web e infraestructura.">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img" aria-label="Melvin Colmenares: dueño de NovIT Soluciones Tecnológicas e ingeniero de software. Backend, móvil, web e infraestructura.">
   <style>
     :root { --bg:#0b1020; --panel:#111833; --line:#1e2a52; --text:#e6ebff; --muted:#8b97c6; --accent:#7c5cff; --accent2:#22d3ee; --ok:#34d399; }
     @media (prefers-color-scheme: light) {
@@ -72,7 +72,7 @@
     <text class="mono prompt fade f1" x="48" y="92">~/P0ND4</text>
     <text class="title fade f2" x="46" y="146">Melvin</text>
     <text class="title fade f2" x="46" y="192" fill="url(#name)" style="fill:url(#name)">Colmenares</text>
-    <text class="sub fade f3" x="48" y="232">Ingeniero de software · Caracas, Venezuela</text>
+    <text class="sub fade f3" x="48" y="232">Dueño de NovIT · Ingeniero de software · Caracas</text>
     <text class="sub fade f3" x="48" y="258">Backend · Móvil · Web · Infraestructura</text>
     <g class="fade f3">
       <rect x="48" y="282" width="118" height="30" rx="15" class="accent" opacity=".16"/>
