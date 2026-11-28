@@ -77,6 +77,7 @@ Construyo productos completos, de la base de datos al bolsillo del usuario: APIs
 
 | | Proyecto | Qué hace |
 |---|---|---|
+| 🌬️ | [**desahogo**](https://github.com/P0ND4/desahogo) | App de escritorio para macOS (Go + Wails) que analiza todo el disco por categorías y libera espacio de forma segura, con limpieza rápida que siempre pasa por la Papelera. `brew install --cask p0nd4/tap/desahogo` |
 | 🐸 | [**cnnp**](https://github.com/P0ND4/cnnp) | CLI que genera un proyecto NestJS listo para producción, con arquitectura y dependencias ya instaladas. |
 | 🤖 | [**ms-ia-service**](https://github.com/P0ND4/ms-ia-service) | Orquestador de agentes de IA: ejecución sync/stream, fallback de proveedores, guardrails y métricas por tenant. |
 | 🪪 | [**ms-identity-service**](https://github.com/P0ND4/ms-identity-service) | Identidad y acceso con JWT/OAuth, RBAC, PostgreSQL y Redis. |
@@ -87,7 +88,7 @@ Construyo productos completos, de la base de datos al bolsillo del usuario: APIs
 ## 🛠️ Con qué trabajo
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,nestjs,nodejs,angular,react,tailwind&perline=8" alt="Lenguajes y frameworks"><br>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,go,ts,nestjs,nodejs,angular,react,tailwind&perline=9" alt="Lenguajes y frameworks"><br>
   <img src="https://skillicons.dev/icons?i=postgres,redis,rabbitmq,docker,nginx,githubactions,linux,bash&perline=8" alt="Datos e infraestructura">
 </p>
 
